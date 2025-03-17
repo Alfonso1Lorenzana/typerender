@@ -1,5 +1,5 @@
-//import { useState, useEffect } from 'react';
-//import { searchGithub, searchGithubUser } from '../api/API';
+import { useState, useEffect } from 'react';
+import { searchGithub, searchGithubUser } from '../api/API';
 
 const username = "Question"
 const location = "UK, London"
